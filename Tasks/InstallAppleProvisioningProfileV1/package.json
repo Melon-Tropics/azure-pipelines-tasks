@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Microsoft/vsts-tasks#readme",
   "dependencies": {
-    "@types/node": "^6.0.0",
+    "@types/node": "13.1.8",
     "ios-signing-common": "file:../../_build/Tasks/Common/ios-signing-common-1.0.0.tgz",
     "securefiles-common": "file:../../_build/Tasks/Common/securefiles-common-1.0.0.tgz",
-    "vsts-task-lib": "2.4.0"
+    "vsts-task-lib": "2.7.0"
   }
 }
