@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "nock": "9.0.11"
+    "nock": "11.7.2"
   }
 }
