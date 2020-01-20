@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "@types/mocha": "^2.2.5",
-    "@types/node": "^4.0.0",
-    "@types/q": "^1.5.0",
-    "del": "2.2.0",
+    "@types/mocha": "5.2.7",
+    "@types/node": "13.1.8",
+    "@types/q": "1.5.2",
+    "del": "5.1.0",
     "docker-common": "file:../../_build/Tasks/Common/docker-common-1.0.0.tgz",
-    "esprima": "2.7.1",
-    "js-yaml": "3.6.1"
+    "esprima": "4.0.1",
+    "js-yaml": "3.13.1"
   }
 }
