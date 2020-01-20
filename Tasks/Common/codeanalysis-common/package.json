@@ -8,14 +8,14 @@
     "url": "https://github.com/Microsoft/vso-agent-tasks/issues"
   },
   "dependencies": {
-    "fs-extra": "^0.30.0",
-    "request": "^2.74.0",
-    "glob": "7.1.0",
+    "fs-extra": "8.1.0",
+    "request": "2.88.0",
+    "glob": "7.1.6",
     "os": "^0.1.1",
-    "vsts-task-lib": "1.1.0",
-    "xml2js": "^0.4.17",
+    "vsts-task-lib": "2.7.0",
+    "xml2js": "0.4.23",
     "cheerio": "^0.22.0",
-    "strip-bom": "^3.0.0"
+    "strip-bom": "^4.0.0"
   },
   "main": "VSTS Tasks Code Analysis",
   "scripts": {
