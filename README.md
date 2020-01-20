@@ -1,4 +1,7 @@
 # Azure Pipelines Tasks
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Melon-Tropics/azure-pipelines-tasks.svg)](https://greenkeeper.io/)
+
 ![Tasks](/taskbanner.png "Tasks")
 
 ## Overview
