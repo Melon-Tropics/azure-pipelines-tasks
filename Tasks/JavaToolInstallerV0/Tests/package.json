@@ -22,7 +22,7 @@
     },
     "homepage": "https://github.com/microsoft/vsts-tasks#readme",
     "dependencies": {
-        "@types/mocha": "5.2.5",
-        "mocha": "5.2.0"
+        "@types/mocha": "5.2.7",
+        "mocha": "7.0.0"
     }
 }
