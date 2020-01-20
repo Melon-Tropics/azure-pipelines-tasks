@@ -14,9 +14,9 @@
   },
   "homepage": "https://github.com/Microsoft/vsts-tasks#readme",
   "dependencies": {
-    "@types/node": "^6.0.101",
-    "@types/q": "^1.0.7",
-    "vsts-task-lib": "^0.9.20",
-    "collections": "3.0.0"
+    "@types/node": "13.1.8",
+    "@types/q": "1.5.2",
+    "vsts-task-lib": "2.7.0",
+    "collections": "5.1.9"
   }
 }
