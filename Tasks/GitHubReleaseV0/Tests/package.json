@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "main": "main.js",
   "devDependencies": {
-    "@types/sinon": "^4.3.1",
-    "sinon": "^4.5.0",
-    "@types/mocha": "2.2.48"
+    "@types/sinon": "^7.5.1",
+    "sinon": "^8.1.0",
+    "@types/mocha": "^5.2.7"
   }
 }
