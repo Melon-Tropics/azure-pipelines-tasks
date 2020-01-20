@@ -1,11 +1,11 @@
 {
   "name": "vsts-tasks-jenkinsqueuejob",
   "dependencies": {
-    "@types/node": "^6.0.101",
-    "@types/q": "^1.0.7",
-    "@types/shelljs": "^0.3.0",
-    "request": "^2.65.0",
-    "vsts-task-lib": "0.9.20"
+    "@types/node": "13.1.8",
+    "@types/q": "1.5.2",
+    "@types/shelljs": "^0.8.6",
+    "request": "2.88.0",
+    "vsts-task-lib": "2.7.0"
   },
   "description": "Azure Pipelines Jenkins Queue Job Task",
   "repository": {
