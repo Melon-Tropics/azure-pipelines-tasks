@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "globule": "^1.0.0",
-    "vsts-task-lib": "^0.9.7"
+    "vsts-task-lib": "2.7.0"
   },
   "repository": {
     "type": "git",
