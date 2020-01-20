@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/microsoft/vsts-tasks",
   "devDependencies": {
-    "nock": "9.0.2"
+    "nock": "11.7.2"
   }
 }
