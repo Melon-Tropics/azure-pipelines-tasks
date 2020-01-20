@@ -13,9 +13,9 @@
   },
   "homepage": "https://github.com/Microsoft/vsts-tasks#readme",
   "dependencies": {
-    "jsonwebtoken": "7.3.0",
-    "q": "1.4.1",
-    "typed-rest-client": "0.12.0",
-    "vsts-task-lib": "2.0.5"
+    "jsonwebtoken": "8.5.1",
+    "q": "1.5.1",
+    "typed-rest-client": "^1.7.1",
+    "vsts-task-lib": "2.7.0"
   }
 }
