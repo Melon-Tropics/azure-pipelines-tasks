@@ -8,20 +8,20 @@
     "url": "https://github.com/Microsoft/vso-agent-tasks/issues"
   },
   "dependencies": {
-    "@types/node": "^6.0.101",
-    "@types/q": "^1.0.7",
+    "@types/node": "13.1.8",
+    "@types/q": "1.5.2",
     "base-64": "^0.1.0",
     "codeanalysis-common": "file:../../_build/Tasks/Common/codeanalysis-common-1.0.0.tgz",
     "codecoverage-tools": "file:../../_build/Tasks/Common/codecoverage-tools-1.0.0.tgz",
-    "fs-extra": "^0.30.0",
+    "fs-extra": "8.1.0",
     "java-common": "file:../../_build/Tasks/Common/java-common-1.0.0.tgz",
     "packaging-common": "file:../../_build/Tasks/Common/packaging-common-1.0.1.tgz",
-    "request": "^2.74.0",
-    "strip-bom": "^3.0.0",
-    "utf8": "^2.1.0",
-    "uuid": "^3.0.1",
-    "vso-node-api": "6.0.1-preview",
-    "vsts-task-lib": "2.6.0",
-    "xml2js": "^0.4.16"
+    "request": "2.88.0",
+    "strip-bom": "^4.0.0",
+    "utf8": "^3.0.0",
+    "uuid": "3.4.0",
+    "vso-node-api": "6.5.0",
+    "vsts-task-lib": "2.7.0",
+    "xml2js": "0.4.23"
   }
 }
